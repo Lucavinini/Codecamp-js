@@ -6,6 +6,3 @@
 var nome = "Lucas"; //Recebe valor do tipo strig
 
 let matricula = 2827; //Recebe valor do tipo int
-
-
-
